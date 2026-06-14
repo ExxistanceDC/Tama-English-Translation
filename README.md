@@ -34,21 +34,17 @@ This patch makes the game entirely playable in English, with a delightfully fitt
 
 <!-- Row 1 -->
 <p>
-  <img width="500" alt="Title Screen" src="https://github.com/user-attachments/assets/76481047-7cbb-4700-b28a-5cf4b96506b6" />
-  <img width="500" alt="Gameplay_screenshot"  src="https://github.com/user-attachments/assets/6f4a09fd-95f1-4bdc-ba8e-d643187dc959" />
+  <img width="500" alt="Title Screen" src="https://github.com/user-attachments/assets/47f0d468-5d32-4447-b072-0e978bb52a27" />
+  <img width="500" alt="Gameplay_screenshot" src="https://github.com/user-attachments/assets/9e1cb210-fe84-4b14-82f5-b05ec9e6c74d" />
 </p>
 
 <!-- Row 2 -->
 <p>
-  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/551d58a8-8b1d-4d7b-89ff-d66a270b9d47"/>
-  <img width="500" alt="Choose_Professional"  src="https://github.com/user-attachments/assets/4cfacb1c-d444-48a6-822f-1a47ed51a3e3" />
+  <img width="500" alt="Choose_Professional"  src="https://github.com/user-attachments/assets/867c06f8-bdbf-4da1-a3c1-a10644d636b8" />
+  <img width="500" alt="Options" src="https://github.com/user-attachments/assets/a978e87d-e52b-4473-a7dc-3a8cbe2acf16"</>  
 </p>
 
-<!-- Row 3 -->
-<p>
-  <img width="500" alt="Dialogue_scene" src="https://github.com/user-attachments/assets/22a3d63c-9513-4bf4-9769-a3523948f61a" />
-  <img width="500" alt="Chapter_screen"src="https://github.com/user-attachments/assets/a109c817-d755-42ef-bb9d-00caf25534fe" />
-</p>
+
 
 
 
