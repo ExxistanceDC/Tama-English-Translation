@@ -85,13 +85,13 @@ The patch is shipped as an XDelta patch.
 1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
 2. Unzip patch bundle
 3. Open **'DeltaPatcher.exe'**
-4. For the Original File, locate Track 01 of the original Hissatsu disc (for example: <kbd>Hissatsu! (Japan) (Track 01).bin</kbd> )
+4. For the Original File, locate Track 01 of the original Tama disc (for example: <kbd>Tama - Adventurous Ball in Giddy Labyrinth (Japan) (Track 01).bin</kbd> )
 5. Locate the <kbd>Hissatsu_English_Translation_v1.0.xdelta</kbd> patch.
 6. Click **'Apply Patch'**
 7. If successful, Track 01 will be replaced with the patched track.
 
 **--> Important! <--**
-- Tested with release <kbd>Hissatsu! (Japan)</kbd>
+- Tested with release <kbd>Tama - Adventurous Ball in Giddy Labyrinth (Japan)</kbd>
 
 ## Helpful Game Tips ##
 
