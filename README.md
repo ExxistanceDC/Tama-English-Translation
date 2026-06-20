@@ -66,7 +66,7 @@ All story elements have been translated thanks to wiredcrackpot. The following c
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>
-    <td>1996-06-28</td>
+    <td>1994-11-22</td>
   </tr>
  </table>
 </div>
