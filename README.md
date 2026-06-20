@@ -19,15 +19,9 @@ If you're a fan of side-scrollers and spaghetti Westerns, this one's for you! Wi
 
 This patch makes the game entirely playable in English, with a delightfully fitting translation thanks to wiredcrackpot. The following changes have been made:
 
-- All dialogue scenes translated
-- New English subtitle rendering for opening/ending voiceover scenes 
-- New translated graphics for:
-  - Title screen
-  - Options Menu
-  - Loading screen
-  - Character Select screen
-  - In-level character portraits and Pause menu
-  - Ending credits
+- Horizontal rendering for opening cutscene added + English translation
+- Translated level intro dialogue
+- Translated ending dialogue
 
 
 ## **Screenshots**
@@ -54,11 +48,11 @@ This patch makes the game entirely playable in English, with a delightfully fitt
 <table>
   <tr>
     <td><strong>Original Title</strong></td>
-    <td>Hissatsu! (必殺!)</td>
+    <td>たま</td>
   </tr>
   <tr>
     <td><strong>Localized Title</strong></td>
-    <td>Hissatsu!</td>
+    <td>Tama: Adventurous Ball in Giddy Labyrinth</td>
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
