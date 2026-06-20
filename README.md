@@ -56,11 +56,11 @@ This patch makes the game entirely playable in English, with a delightfully fitt
   </tr>
   <tr>
     <td><strong>Developer</strong></td>
-    <td>Emotion Digital Software</td>
+    <td>Time Warner Interactive</td>
   </tr>
   <tr>
     <td><strong>Publisher</strong></td>
-    <td>Bandai Visual</td>
+    <td>Time Warner Interactive</td>
   </tr>
     <tr>
     <td><strong>Original Release Date</strong></td>
@@ -103,9 +103,8 @@ The patch is shipped as an XDelta patch.
 
 **QA**
 - Exxistance
-- wonder-inc
 
 **Special Thanks**
-- Bo Bayles
+- Bo Bayles (as always)
 
 
