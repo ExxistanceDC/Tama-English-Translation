@@ -21,7 +21,7 @@ Besides that, I felt Tama needed a translation because it reminds me of the coun
 
 All story elements have been translated thanks to wiredcrackpot. The following changes have been made:
 
-- Horizontal rendering for opening cutscene and loading screens added + translation
+- Horizontal rendering for opening cutscene and loading screens + translated
 - Translated level intro dialogue
 - Translated ending dialogue
 
@@ -91,8 +91,7 @@ The patch is shipped as an XDelta patch.
 
 ## Helpful Game Tips ##
 
-1. The <a href=https://segaretro.org/Hissatsu!>Sega Retro</a> page has a good gameplay overview, including controls and moves. Worth checking out!
-2. The game has two endings. One for completing it on Easy & Normal, and another for Hard. The Hard ending is cooler, though there's no difference in story content between the three.
+1. 
 
 
 ## **Credits**
