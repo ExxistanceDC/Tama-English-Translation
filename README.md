@@ -2,7 +2,7 @@
 
 
 # Tama: Adventurous Ball in Giddy Labyrinth English Translation Patch
-This is an English translation of Hissatsu! for Sega Saturn, a side-scrolling action game ala SEGA's Shinobi. Released exclusively in Japan in 1996, it's one of the few video game adapations of the long-running <a href="https://en.wikipedia.org/wiki/Hissatsu_series">Hissatsu televsion series</a>.
+This is an English translation of Tama for Sega Saturn, a rather charming ball maze game that was released exclusively in Japan in 1994 for the Saturn and PlayStation, and a launch title for both systems.
 
 ## Table of Contents
 1. [Overview](#Overview)
