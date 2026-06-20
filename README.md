@@ -21,7 +21,7 @@ Besides that, I felt Tama needed a translation because it reminds me of the coun
 
 All story elements have been translated thanks to wiredcrackpot. The following changes have been made:
 
-- Horizontal rendering for opening cutscene added + English translation
+- Horizontal rendering for opening cutscene and loading screens added + translation
 - Translated level intro dialogue
 - Translated ending dialogue
 
