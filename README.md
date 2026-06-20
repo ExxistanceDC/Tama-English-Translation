@@ -2,7 +2,7 @@
 
 
 # Tama: Adventurous Ball in Giddy Labyrinth English Translation Patch
-This is an English translation of Tama for Sega Saturn, a rather charming ball maze game that was released exclusively in Japan in 1994 for the Saturn and PlayStation, and a launch title for both systems.
+This is an English translation of Tama for Sega Saturn, a rather charming ball labyrinth game that was released exclusively in Japan in 1994 for the Saturn and PlayStation, and a launch title for both systems.
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -15,9 +15,11 @@ This is an English translation of Tama for Sega Saturn, a rather charming ball m
 
 
 ## **Overview**
-If you're a fan of side-scrollers and spaghetti Westerns, this one's for you! With a choice of four different characters, some awesome genre-appropriate music, and a surprisingly dark storyline, Hissatsu! could be considered something of a hidden gem. 
+Did anyone ask for this translation? No. But look at those flat-shaded polys, how can you not love them??
 
-This patch makes the game entirely playable in English, with a delightfully fitting translation thanks to wiredcrackpot. The following changes have been made:
+Besides that, I felt Tama needed a translation because it reminds me of the countless hours spent at my grandma's playing with a wooden ball labyrinth that she had. It's a fun little game, and it does have a semblance of story, so all the more reason to give it the 'ole Exxistance treatment. 
+
+All story elements have been translated thanks to wiredcrackpot. The following changes have been made:
 
 - Horizontal rendering for opening cutscene added + English translation
 - Translated level intro dialogue
