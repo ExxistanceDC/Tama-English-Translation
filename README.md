@@ -104,6 +104,7 @@ The patch is shipped as an XDelta patch.
 
 **QA**
 - Exxistance
+- wonder-inc
 
 **Special Thanks**
 - Bo Bayles (as always)
