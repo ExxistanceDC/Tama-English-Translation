@@ -37,7 +37,7 @@ Did anyone ask for this translation? No. But look at those flat-shaded polys, ho
 
 Besides that, I felt Tama needed a translation because it reminds me of the countless hours spent at my grandma's playing with a wooden ball labyrinth that she had. It's a fun little game, and it does have a semblance of story (you're not just playing a game here, you're protecting all of existence), so all the more reason to add it to my romhacking catalogue. 
 
-All story elements have been translated thanks to wiredcrackpot. The following changes have been made:
+All story elements, including that lovely story overview above, have been translated thanks to wiredcrackpot. The following changes have been made:
 
 - Horizontal rendering for opening cutscene and loading screens + translated
 - Translated level intro dialogue
