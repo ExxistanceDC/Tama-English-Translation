@@ -1,5 +1,25 @@
 <div align="center"><img width="500" alt="Tama_splash_cover"  " /></div>
 
+> There are worlds so close, it is as if you could turn around and touch them, yet so far their paths will never meet.
+> 
+> These are known as "parallel universes". Within one, there is another Earth, the "Tama World". In Tama World, beings called "Tama" are the most evolved species on the planet, and as such, they preside over the peaceful and happy society they've created. But...
+> 
+> One day, events that could spell the end of the Tama's peace suddenly started to occur one after another. Gentle animals gone mad, the factory's machines produced outlandish robots, and there were reports of strange weather from all over the world.
+> 
+> Immediately, the finest "Scientist" Tama set off to determine the cause. In their efforts, they discovered the culprit; "Akudama" - a great energy with a will of its own, sealed away a thousand years ago by the legendary "Sage" Tama.
+> 
+> With the power Akudama accumulated during its long confinement, it had little trouble rendering the "Tama Seal" powerless, and so it returned to once again bring about chaos and destruction to the world. With the Tama Seal in tow, Akudama's hateful energy spread far and wide across the land, giving rise to a great plague. As more and more Tama succumbed to the disease, the world was enveloped in thoughts of helplessness and despair. Everyone agreed, "this is the end".
+> 
+> Yet there was still a single hope left for their world. There is a Tama without a name, that nevertheless possesses a courageous heart. In the gloomy depths of the world, this Tama watches over the Tama Seal, as a descendant of the Sage Tama.
+> 
+> It started off after Akudama to get the Tama Seal back but... Huh?! That's strange, it seems it can't move on its own! Due to the effects of the evil energy, societal order and even the laws of nature themselves have gone awry. The distressed Tama summoned all its strength to shout so loud that it echoed to the ends of the Earth. 
+"Somebody! Help me!!"
+> 
+> Its voice transcended dimensions to reach you. And before you knew it, in your hands was a "3D Controller" (tentative name), capable of freely tilting the Tama World. You then thought "Huh, could I use this to lead Tama, and make his world a paradise again?". 
+> 
+> I believe you can. It is a request from all of us at Time Warner Interactive. Guide Tama to bring peace to the Tama World!
+
+
 
 # Tama: Adventurous Ball in Giddy Labyrinth English Translation Patch
 This is an English translation of Tama for Sega Saturn, a rather charming ball labyrinth game that was released exclusively in Japan in 1994 for the Saturn and PlayStation, and a launch title for both systems.
