@@ -1,11 +1,11 @@
-<div align="center"><img width="500" alt="Tama_splash_cover"  " /></div>
+<div align="center"><img width="500" alt="Tama_splash_cover" src="https://github.com/user-attachments/assets/5db672b9-7880-4a19-9725-03fe0b1e29fa"/></div>
 
 # Tama: Adventurous Ball in Giddy Labyrinth English Translation Patch
 This is an English translation of Tama for Sega Saturn, a rather charming ball labyrinth game that was released exclusively in Japan in 1994 for the Saturn and PlayStation, and a launch title for both systems.
 
 ## Table of Contents
 1. [Story](#Story)
-2. [Overview](#Overview)
+1. [Overview](#Overview)
 1. [Screenshots](#Screenshots)
 1. [About the Game](#About-the-Game)
 1. [Patching Instructions](#Patching-Instructions)
