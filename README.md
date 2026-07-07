@@ -126,5 +126,6 @@ The patch is shipped as an XDelta patch.
 
 **Special Thanks**
 - Bo Bayles (as always, and whose level select investigation was invaluable in being able to test the ending translations)
+- Grandma (miss you, and I hope that I'll see you again one day)
 
 
