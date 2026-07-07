@@ -125,6 +125,6 @@ The patch is shipped as an XDelta patch.
 - wonder-inc
 
 **Special Thanks**
-- Bo Bayles (as always)
+- Bo Bayles (as always, and whose level select investigation was invaluable in being able to test the ending translations)
 
 
