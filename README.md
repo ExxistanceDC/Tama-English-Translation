@@ -106,6 +106,7 @@ The patch is shipped as an XDelta patch.
 
 **--> Important! <--**
 - Tested with release <kbd>Tama - Adventurous Ball in Giddy Labyrinth (Japan)</kbd>
+- Test in Ymir, Kronos, and Mednafen emulators, and on real hardware with Satiator.
 
 ## Helpful Game Tips ##
 
