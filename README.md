@@ -114,9 +114,9 @@ The patch is shipped as an XDelta patch.
 - ...but it won't be _that_ easy, because not only are you competing against a time limit, there are various hazards in each stage:
   - **HOLE**. It's a hole. Shouldn't need much explaining. Some of them move around, and there are even holes that change shape.
   - **SPRING**. A spring. If the Tama bumps into it, it'll get bounced away from the spring.
-  - **DOOR**. A hidden door. If you spot an oddly-colored wall that looks fishy,  give it a push - it might just open a shortcut.
+  - **DOOR**. A hidden door. If you spot an oddly-colored wall that looks fishy,  give it a push; it might open a shortcut.
   - **HAND**. A hand shoots out from a wall, grabs the Tama, and hurls it away. Wait for it to pause and slip on past.
-  - **SPOON**. Land on it and you get flung, but it's can be helpful sometimes in carrying you closer to the goal.
+  - **SPOON**. Land on it and you get flung, but it can be helpful sometimes in getting you closer to the goal.
   - **SWITCH**. Press it and a wall or door opens up somewhere.
   - **OOZE**. A nasty thing that melts the Tama. Steer clear of it as much as you can.
   - **SPINNER**. Touch it and you'll be knocked off in some strange direction. There are all kinds, from the flower spinner on down.
@@ -124,7 +124,7 @@ The patch is shipped as an XDelta patch.
   - **GEYSER**. Spouts water at fixed intervals, blasting the Tama skyward along if you roll over it.
   - **WOOZY JUICE**. If you drink this, the Tama gets completely disoriented, reversing all your controls for a period of time.
   - **TROPHY OF GLORY**. Gives you an extra 1,000 points.
-  - **REVERSING CLOCK**. Touch it and time rolls back a bit.
+  - **REVERSING CLOCK**. Touch it and time rolls back a bit (i.e. you get more time).
 - On some stages, you may find a cow. If you bump into it, and carefully lead it to the goal, you'll enter 1 of 5 bonus stages after finishing the standard levels.
   - The bonus stages play slightly differently. You can only use the d-pad and L/R buttons--so no zooming available. Your goal is to collect all the little gold fruits, which boosts your score.
 
