@@ -11,6 +11,7 @@ This is an English translation of Tama for Sega Saturn, a rather charming ball l
 1. [Patching Instructions](#Patching-Instructions)
 1. [Helpful Game Tips](#Helpful-Game-Tips)
 1. [Credits & Special Thanks](#Credits)
+1. [Release Changelog](#Release-Changelog)
 
 ## Story
 There are worlds so close, it is as if you could turn around and touch them, yet so far their paths will never meet.
@@ -145,4 +146,11 @@ The patch is shipped as an XDelta patch.
 - Bo Bayles (as always, and whose level select investigation was invaluable in being able to test the ending translations)
 - Grandma (miss you, and I hope that I'll see you again one day)
 
+## **Release Changelog**
+
+- **Version 1.0.1 (07/16/2026)**
+  - Fixed typo in the Level 2 intro text
+
+- **Version 1.0. (07/15/2026)**
+  - Initial release
 
